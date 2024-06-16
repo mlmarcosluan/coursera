@@ -17,3 +17,7 @@ def main ():
         print ("não está em ordem crescente")
             
 main ()
+
+#   #   #
+##  ##  ##
+### ### ###

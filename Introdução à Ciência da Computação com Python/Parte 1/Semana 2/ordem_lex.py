@@ -12,3 +12,7 @@ def primeiro_lex (lista):
             primeiro = lista[str]
 
     return primeiro
+
+#   #   #
+##  ##  ##
+### ### ###

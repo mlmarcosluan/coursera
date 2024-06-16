@@ -33,3 +33,7 @@ def main ():
         print ("esta equação não possui raízes reais")
 
 main ()
+
+#   #   #
+##  ##  ##
+### ### ###

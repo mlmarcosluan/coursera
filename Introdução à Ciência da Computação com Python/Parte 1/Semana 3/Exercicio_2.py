@@ -14,3 +14,7 @@ def main():
     else:
         print (numero)
 main()
+
+#   #   #
+##  ##  ##
+### ### ###

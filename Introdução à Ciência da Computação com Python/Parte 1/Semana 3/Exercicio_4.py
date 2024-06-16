@@ -14,3 +14,7 @@ def main ():
         print (numero)
 
 main () 
+
+#   #   #
+##  ##  ##
+### ### ###

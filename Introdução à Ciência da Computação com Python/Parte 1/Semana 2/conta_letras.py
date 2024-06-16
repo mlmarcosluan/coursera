@@ -28,8 +28,6 @@ def conta_letras(frase, contar="vogais"):
     else: # Aqui vamos contar as vogais
         return cont_vogais
 
-
-
 #   #   #
 ##  ##  ##
 ### ### ###

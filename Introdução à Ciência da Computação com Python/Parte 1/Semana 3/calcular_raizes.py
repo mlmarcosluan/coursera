@@ -44,8 +44,8 @@ def main():
     else: # Delta < 0, não temos raizes reais
         print ("Para a = ", Valor_a, ", b = ", Valor_b, "e c = ", Valor_c, "Não temos raizes reais")
 
-
-
-
-
 main()
+
+#   #   #
+##  ##  ##
+### ### ###

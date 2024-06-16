@@ -15,12 +15,7 @@ def menor_nome (nomes):
             break
 
     return nome_menor.capitalize()
-        
-
-
-
-
-
+    
 #   #   #
 ##  ##  ##
 ### ### ###
