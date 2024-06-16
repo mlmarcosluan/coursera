@@ -10,6 +10,3 @@ Este repositório contém todos os códigos e projetos desenvolvidos durante os 
  ## Como Navegar
 Cada curso possui seu próprio diretório contendo os códigos organizados por módulos ou semanas, conforme a estrutura do curso. Para facilitar a navegação, um arquivo 
 README individual sera feito conforme eu consigo ir atualizando o repositório, fornecendo detalhes específicos sobre o curso e os projetos contidos nele.
-
-## Licença
-Os conteúdos deste repositório são licenciados sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
